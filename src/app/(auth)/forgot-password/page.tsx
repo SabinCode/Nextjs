@@ -7,3 +7,6 @@ const ForgotPassword = () => {
 }
 
 export default ForgotPassword
+
+//(auth) yo garda route grouping hun6. /route/forgot-password garna parena.
+// http://localhost:3000/forgot-password yetikai hun6
