@@ -1,0 +1,21 @@
+const Home = () => {
+  return (
+    <>
+    <h1>Home Page</h1>
+    </>
+  )
+}
+
+export default Home
+
+
+//NEXT  JS
+// -SERVER COMPONENTS
+//-NODE JS SERVER
+//NO USER UI INTEGRATION
+//CAN DO ASYNC STUFFS IN COMPONENT ITSELF
+//DEFAULT EXPORT
+
+// -CLIENT COMPONENTS
+//-NORMAL VITE-REACT LIKE 
+//COMPONENTS - "USE CLIENT"
