@@ -37,6 +37,7 @@ export default ProductDetails
 //params aafai aau6 next js ma
 // /products/[productId] prductsId j diyo params.productId ma tei aaune vayo
 
+//generateMetadata is a Generic 
 //export const generateMetadata = async({params}: {params: {productId: string}}) => {
 //    return {
 //        title: `Product Details - ${params.productId}`,

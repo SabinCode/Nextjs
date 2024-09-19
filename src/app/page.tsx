@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <>
       <h1>Home Page</h1>
-      <Link href="/login">Login </Link>
+      <Link className="uderline" href="/login">Login </Link>
       <Link href="/register">Register </Link>
       <Link href="/blog">Blog </Link>
       <Link href="/products" replace={true}>products </Link>
